@@ -31,6 +31,7 @@
               svelte-language-server
               tailwindcss_4
               tailwindcss-language-server
+              tombi
               typescript-language-server
               wrangler
             ];
