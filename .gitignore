@@ -84,3 +84,11 @@ artifacts/shirone-ai-*
 # Nix build link
 result
 result-*
+
+# Content separation
+public/
+src/assets/
+src/config/
+src/content/
+src/data/
+src/user/
