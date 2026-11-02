@@ -16,7 +16,7 @@ name: Deploy
 on:
   # 代码变更。
   push:
-    branches: [main]
+    branches: [develop]
     paths-ignore:
       - "docs/**"
       - "rules/**"

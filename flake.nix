@@ -26,7 +26,7 @@
               markdown-oxide
               nixd
               nixfmt
-              nodejs
+              nodejs_latest
               pnpm
               svelte-language-server
               tailwindcss_4
